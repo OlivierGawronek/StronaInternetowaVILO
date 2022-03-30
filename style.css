@@ -9,18 +9,12 @@ body{
     overflow: hidden;
 }
 
-.a {
+.ContGry {
     position: relative;
     width: 352px;
     height: 198px;
     margin: auto;
     margin-top: 20px;
-    outline: 3px solid red;
+    outline: 3px solid azure;
 }
 
-.chu{
-    position: relative;
-    width: 20px;
-    height: 20px;
-    background-color: red;
-}
