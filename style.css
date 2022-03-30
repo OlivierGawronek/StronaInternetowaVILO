@@ -1,11 +1,26 @@
-body{
-    background-color: #364245;
+* {
+    box-sizing: border-box;
 }
 
-.WysGry {
+body{
+    background-color: #364245;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+
+.a {
     position: relative;
-    width: 380px;
-    height: 210px;
-    left: 20px;
+    width: 352px;
+    height: 198px;
+    margin: auto;
+    margin-top: 20px;
+    outline: 3px solid red;
+}
+
+.chu{
+    position: relative;
+    width: 20px;
+    height: 20px;
     background-color: red;
 }
