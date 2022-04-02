@@ -11,10 +11,10 @@ body{
 
 .ContGry {
     position: relative;
-    width: 352px;
-    height: 198px;
+    width: 648px;
+    height: 488px;
     margin: auto;
-    margin-top: 20px;
+    margin-top: 60px;
     outline: 3px solid azure;
 }
 
