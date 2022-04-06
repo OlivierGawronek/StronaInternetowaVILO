@@ -18,3 +18,9 @@ body{
     outline: 3px solid azure;
 }
 
+.mainHero{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
+
